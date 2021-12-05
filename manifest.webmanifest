@@ -1,0 +1,20 @@
+{"name" : "Prueba de Colores",
+    "short_name" : "Colors",
+    "description" : "Prueba distintos colores",
+    "start_url" : "https://helix-atlantic-decade.glitch.me/",
+    "lang" : "Spanish",
+    "display" : "standalone",
+    "theme_color": "#8ADEDC ",
+    "background_color": "#8ADEDC ",
+    "orientation" : "portrait",
+    "icons": [ {
+       "src": "https://cdn.glitch.me/e22ebcd0-e2ce-4cd9-b0c9-9fc5f2219ef1%2Fkakashi.png?v=1637727519052",
+       "sizes": "192x192",
+       "type": "image/png"
+     },
+     {
+       "src": "https://cdn.glitch.me/e22ebcd0-e2ce-4cd9-b0c9-9fc5f2219ef1%2Fkakashi.png?v=1637727519052",
+       "sizes": "512x512",
+       "type": "image/png"
+     }]
+  }
